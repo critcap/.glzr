@@ -1,0 +1,1 @@
+[2m2024-10-12T23:27:08.493940Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.border.enabled: invalid type: string "false;", expected a boolean at line 68 column 16
